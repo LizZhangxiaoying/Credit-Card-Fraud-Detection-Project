@@ -50,7 +50,8 @@ cd credit-card-fraud-detection
 3.Install the required dependencies:
 
 ```
-pip install -r requirements.txt```
+pip install -r requirements.txt
+```
 
 4.Execute the notebook:
 
